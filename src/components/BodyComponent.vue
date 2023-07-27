@@ -24,9 +24,9 @@ export default {
         </div>
     </div>
     <div class="bg-gray-200 px-3 py-3">
-        <div>
             <h2 class="font-semibold text-2xl text-center mb-10">My Project</h2>
-            <div class="flex flex-wrap m-9">
+        <div class="flex">
+            <div class="flex flex-wrap m-9 mx-auto">
                 <a class="m-5" target="_blank" href="https://ridwannurfauzi.github.io/mediapintar.com/">
                     <div style="width: 300px; height: 150px;" class="bg-white hover:shadow-md rounded-md flex items-center">
                         <div style="width: 100px; height: 100px;"
