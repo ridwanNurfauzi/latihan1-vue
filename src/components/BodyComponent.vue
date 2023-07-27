@@ -12,7 +12,7 @@ export default {
                     width="300">
             </div>
         </div>
-        <div class="py-8">
+        <div class="mx-2 py-8">
             <h2 class="text-center font-semibold text-2xl my-2">Biodata</h2>
             <table class="mx-auto">
                 <tr v-for="data in biodata">
@@ -24,7 +24,7 @@ export default {
         </div>
     </div>
     <div class="bg-gray-200 px-3 py-3" id="project">
-            <h2 class="font-semibold text-2xl text-center mt-5">My Project</h2>
+        <h2 class="font-semibold text-2xl text-center mt-5">My Project</h2>
         <div class="flex">
             <div class="flex flex-wrap m-9 mx-auto justify-center">
                 <a class="m-5" target="_blank" href="https://ridwannurfauzi.github.io/mediapintar.com/">
@@ -53,4 +53,5 @@ export default {
                 </a>
             </div>
         </div>
-</div></template>
+    </div>
+</template>
