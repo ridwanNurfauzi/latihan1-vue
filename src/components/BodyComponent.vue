@@ -24,7 +24,7 @@ export default {
         </div>
     </div>
     <div class="bg-gray-200 px-3 py-3" id="project">
-            <h2 class="font-semibold text-2xl text-center mb-10">My Project</h2>
+            <h2 class="font-semibold text-2xl text-center mt-5">My Project</h2>
         <div class="flex">
             <div class="flex flex-wrap m-9 mx-auto justify-center">
                 <a class="m-5" target="_blank" href="https://ridwannurfauzi.github.io/mediapintar.com/">
