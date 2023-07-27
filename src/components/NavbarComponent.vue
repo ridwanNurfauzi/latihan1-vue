@@ -16,6 +16,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
             <NavbarCollapse :isShowMenu="isShowMenu" class="mx-auto">
                 <NavbarLink link="#home">Home</NavbarLink>
                 <NavbarLink link="#bio">Biodata</NavbarLink>
+                <NavbarLink link="#project">Project</NavbarLink>
                 <NavbarLink link="#contact">Contact</NavbarLink>
             </NavbarCollapse>
         </template>
